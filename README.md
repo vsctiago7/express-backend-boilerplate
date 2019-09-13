@@ -1,3 +1,8 @@
-# Random API | Express.js.
+# Express.js boilerplate.
 
-I'm just messing around with **Express.js** to learn more about it.
+Simple **Express.js ES6** boilerplate,  with nodemon hot reloading.
+
+Has clean script with rimraf.
+Also has prod script that builds a clean compiled code.
+
+Any suggestions are appreciated.
